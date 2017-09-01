@@ -1,0 +1,9 @@
+TO DO LIST:
+- [x] Count how many countries in each region
+- [x] Create heatmap for correlation matrix
+- [ ] Find average rank for each region
+- [ ] Find average score for each region
+- [ ] Create choropleth map for countries/ rank 
+- [ ] Create linear regression model to predict score based on variables 
+- [ ] Machine learning: decision tree, knn
+
